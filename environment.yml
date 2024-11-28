@@ -1,0 +1,13 @@
+name: 1p5_comment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipywidgets
+  - nb_black
+  - pyam>=2.0
+  - fair
+  - pandas
+  - pip:
+      - silicone
