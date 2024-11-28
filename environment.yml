@@ -8,6 +8,7 @@ dependencies:
   - nb_black
   - pyam>=2.0
   - fair
+  - python-dotenv
   - pandas
   - pip:
       - silicone
